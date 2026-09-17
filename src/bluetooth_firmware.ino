@@ -66,7 +66,7 @@ int readAngle(TwoWire& wire)
     wire.beginTransmission(0b0000110);
     wire.write(0x03);
     wire.endTransmission(false);
-    wire.requestFrom((int)0b0000110, 2)
+    wire.requestFrom((int)0b0000110, 2);
     if (wire.available() < 2)
     {
         return -1;
