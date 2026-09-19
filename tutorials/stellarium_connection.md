@@ -1,5 +1,7 @@
 # Подключение монтировки к программе Stellarium (протокол LX200)
 
+🌐 **Русский** | [English](stellarium_connection.en.md)
+
 Для Stellarium используется отдельная прошивка [`src/stellarium_firmware.ino`](../src/stellarium_firmware.ino).
 Stellarium видит ESP32 как монтировку **Meade LX200 (compatible)**; связь — по USB (serial, 9600 8N1).
 Вся математика (пересчёт углов энкодеров в RA/Dec) и модель привязки считаются на ESP32.

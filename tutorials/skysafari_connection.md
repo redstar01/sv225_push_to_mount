@@ -1,5 +1,7 @@
 # Подключение монтировки к программе SkySafari
 
+🌐 **Русский** | [English](skysafari_connection.en.md)
+
 В настройках программы SkySafari необходимо добавить телескоп по протоколу Basic Encoder System. Далее идем по шагам из скринов ниже
 
 <div style="text-align: center;">
