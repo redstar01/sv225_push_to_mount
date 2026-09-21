@@ -24,7 +24,6 @@ The project is moving toward **Stellarium** — this version is already the prio
     <br/>
     <em>Web interface: state, time, site slots and alignment — all from a phone</em>
 </p>
-<!-- SCREENSHOT: put a screenshot of the main web interface screen into ./photos/webui_main.png -->
 
 ## 🚀 Project overview
 
